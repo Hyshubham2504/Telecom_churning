@@ -1,4 +1,4 @@
-                                                                     Telecom Churning Modeling
+                                                      Telecom Churning Modeling
 
 Objective
 The primary goal of this project is to develop a predictive framework that enables a proactive retention strategy for a telecom company. By leveraging machine learning techniques, specifically predictive modeling, the aim is to identify customers who are likely to churn. This allows the company to implement preemptive measures, reducing customer attrition and fostering a more stable customer base.
